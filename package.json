@@ -1,5 +1,5 @@
 {
-    "name": "stick-notes",
+    "name": "sticky-notes",
     "version": "0.0.1",
     "description": "A minimal sticky notes front end only web app made with Angular 2",
     "scripts": {
